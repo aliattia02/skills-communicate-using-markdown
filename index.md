@@ -11,3 +11,5 @@ Hi, I'm **Ali Attia**, a passionate software developer and researcher currently 
 - **Software Development**: Proficient in Python, JavaScript, Flask, React, and more.
 - **Research and Innovation**: E-waste renewable energy conversion, diabetes management solutions, and advanced analytics.
 - **AI and Machine Learning**: Integrating AI for personalized experiences and automation.
+
+![personalized medicine](https://www.pragmaticcoders.com/wp-content/uploads/2024/05/Personalized-healthcare-optimized.jpg)
