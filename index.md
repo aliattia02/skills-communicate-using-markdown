@@ -13,3 +13,8 @@ Hi, I'm **Ali Attia**, a passionate software developer and researcher currently 
 - **AI and Machine Learning**: Integrating AI for personalized experiences and automation.
 
 ![personalized medicine](https://www.pragmaticcoders.com/wp-content/uploads/2024/05/Personalized-healthcare-optimized.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
