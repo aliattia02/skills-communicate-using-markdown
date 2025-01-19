@@ -14,6 +14,3 @@ Hi, I'm **Ali Attia**, a passionate software developer and researcher currently 
 
 ![personalized medicine](https://www.pragmaticcoders.com/wp-content/uploads/2024/05/Personalized-healthcare-optimized.jpg)
 
-``` javascript
-var myVar = "Hello, world!";
-```
